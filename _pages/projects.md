@@ -5,4 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-Check out some of my side projects.
+{% include base_path %}
+
+{% for post in site.posts reversed %} {% include archive-single.html %} {% endfor %}
