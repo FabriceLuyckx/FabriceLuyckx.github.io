@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2020
 
-**Luyckx, F**., Spitzer, B., Blangero, A., Tsetsos, K.\*, Summerfield, C.\* (in press). Selective integration during sequential sampling in posterior neural signals. Cerebral Cortex.
+**Luyckx, F**., Spitzer, B., Blangero, A., Tsetsos, K.\*, Summerfield, C.\* (2020). Selective integration during sequential sampling in posterior neural signals. Cerebral Cortex, 1-11. [\[access\]](https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhaa039/5799016?guestAccessKey=638a84bb-403b-4e1b-9d12-91a6b91ac3eb)
 
 ## 2019
 
